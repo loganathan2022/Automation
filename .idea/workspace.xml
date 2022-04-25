@@ -1,0 +1,427 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="937e249d-42fc-42d9-aeeb-100cc326535e" name="Changes" comment="test">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/git_toolbox_prj.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/drivers/chromedriver.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/reports/cucumber-html-reports/css/bootstrap.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/reports/cucumber-html-reports/css/cucumber.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/reports/cucumber-html-reports/css/font-awesome.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/reports/cucumber-html-reports/embeddings/embedding_-1042564814.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/reports/cucumber-html-reports/embeddings/embedding_-1079244744.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/reports/cucumber-html-reports/embeddings/embedding_-1123810533.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/reports/cucumber-html-reports/embeddings/embedding_-1249433797.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/reports/cucumber-html-reports/embeddings/embedding_-1281091994.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/reports/cucumber-html-reports/embeddings/embedding_-128683568.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/reports/cucumber-html-reports/embeddings/embedding_-137357384.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/reports/cucumber-html-reports/embeddings/embedding_-1400291689.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/reports/cucumber-html-reports/embeddings/embedding_-1404055905.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/reports/cucumber-html-reports/embeddings/embedding_-1413196957.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/reports/cucumber-html-reports/embeddings/embedding_-1461391532.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/reports/cucumber-html-reports/embeddings/embedding_-1468088497.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/reports/cucumber-html-reports/embeddings/embedding_-1506047992.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/reports/cucumber-html-reports/embeddings/embedding_-1549391605.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/reports/cucumber-html-reports/embeddings/embedding_-155353094.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/reports/cucumber-html-reports/embeddings/embedding_-1640243698.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/reports/cucumber-html-reports/embeddings/embedding_-1713156541.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/reports/cucumber-html-reports/embeddings/embedding_-1745028424.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/reports/cucumber-html-reports/embeddings/embedding_-1794871191.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/reports/cucumber-html-reports/embeddings/embedding_-1801866133.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/reports/cucumber-html-reports/embeddings/embedding_-1834516810.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/reports/cucumber-html-reports/embeddings/embedding_-1873004893.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/reports/cucumber-html-reports/embeddings/embedding_-1942379661.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/reports/cucumber-html-reports/embeddings/embedding_-1948072438.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/reports/cucumber-html-reports/embeddings/embedding_-1971877279.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/reports/cucumber-html-reports/embeddings/embedding_-365250199.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/reports/cucumber-html-reports/embeddings/embedding_-44761680.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/reports/cucumber-html-reports/embeddings/embedding_-527227130.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/reports/cucumber-html-reports/embeddings/embedding_-531503427.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/reports/cucumber-html-reports/embeddings/embedding_-590652084.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/reports/cucumber-html-reports/embeddings/embedding_-983341666.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/reports/cucumber-html-reports/embeddings/embedding_-992263226.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/reports/cucumber-html-reports/embeddings/embedding_118215154.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/reports/cucumber-html-reports/embeddings/embedding_1269523224.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/reports/cucumber-html-reports/embeddings/embedding_1281536125.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/reports/cucumber-html-reports/embeddings/embedding_1314712348.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/reports/cucumber-html-reports/embeddings/embedding_1556159757.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/reports/cucumber-html-reports/embeddings/embedding_1610583469.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/reports/cucumber-html-reports/embeddings/embedding_1652553733.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/reports/cucumber-html-reports/embeddings/embedding_1696954119.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/reports/cucumber-html-reports/embeddings/embedding_1720596113.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/reports/cucumber-html-reports/embeddings/embedding_1824696430.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/reports/cucumber-html-reports/embeddings/embedding_2041365720.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/reports/cucumber-html-reports/embeddings/embedding_2113886662.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/reports/cucumber-html-reports/embeddings/embedding_406962851.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/reports/cucumber-html-reports/embeddings/embedding_626710693.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/reports/cucumber-html-reports/embeddings/embedding_757152506.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/reports/cucumber-html-reports/embeddings/embedding_776228734.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/reports/cucumber-html-reports/embeddings/embedding_870897087.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/reports/cucumber-html-reports/fonts/FontAwesome.otf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/reports/cucumber-html-reports/fonts/fontawesome-webfont.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/reports/cucumber-html-reports/fonts/fontawesome-webfont.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/reports/cucumber-html-reports/fonts/fontawesome-webfont.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/reports/cucumber-html-reports/fonts/fontawesome-webfont.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/reports/cucumber-html-reports/fonts/fontawesome-webfont.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/reports/cucumber-html-reports/fonts/glyphicons-halflings-regular.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/reports/cucumber-html-reports/fonts/glyphicons-halflings-regular.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/reports/cucumber-html-reports/fonts/glyphicons-halflings-regular.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/reports/cucumber-html-reports/fonts/glyphicons-halflings-regular.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/reports/cucumber-html-reports/fonts/glyphicons-halflings-regular.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/reports/cucumber-html-reports/images/favicon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/reports/cucumber-html-reports/js/Chart.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/reports/cucumber-html-reports/js/bootstrap.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/reports/cucumber-html-reports/js/jquery.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/reports/cucumber-html-reports/js/jquery.tablesorter.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/reports/cucumber-html-reports/js/moment.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/reports/cucumber-html-reports/overview-failures.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/reports/cucumber-html-reports/overview-features.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/reports/cucumber-html-reports/overview-steps.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/reports/cucumber-html-reports/overview-tags.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/reports/cucumber-html-reports/report-feature_4008715427.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/reports/cucumber-html-reports/report-feature_4175935524.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/reports/cucumber-html-reports/report-tag_1232272589.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/reports/cucumber-html-reports/report-tag_2209157359.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/reports/cucumber-html-reports/report-tag_2974839198.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/reports/cucumber-html-reports/report-tag_4196170690.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/BrowserAccess/BrowserControl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/Functional/BussinessFun.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/PageLocators/HomePageLocators.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/PageLocators/LoginPageLocators.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/Runner/TestRunner.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/Runner/TestRunner1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/Stepdef/Login/login.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/Util/ExcelReader.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/Util/GlobalFunction.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/Util/ReportGeneration.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/Util/ReusableFunction.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/Browser.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/Features/POC_Practices.feature" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/UserCredentials.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/extent-config.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/extent.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/inputdata.xls" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="2" />
+  </component>
+  <component name="ProjectId" id="286oyx9BWffLfSlvvlA98aMHypW" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "last_opened_file_path": "C:/Users/DELL/Desktop/AutomationFF/AutomationFrameworkS",
+    "settings.editor.selected.configurable": "org.jetbrains.plugins.github.ui.GithubSettingsConfigurable"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\DELL\Desktop\AutomationFF\AutomationFrameworkS" />
+      <recent name="C:\Users\DELL\Desktop\AutomationFF\AutomationFrameworkS\src\test\resources\Features" />
+      <recent name="C:\Users\DELL\Desktop\AutomationFF\AutomationFrameworkS\src\test\resources" />
+      <recent name="C:\Users\DELL\Desktop\AutomationFF\AutomationFrameworkS\src\test\java\Functional" />
+      <recent name="C:\Users\DELL\Desktop\AutomationFF\AutomationFrameworkS\src\test\java\Runner" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\DELL\Desktop\AutomationFF\AutomationFrameworkS\src\test\resources" />
+      <recent name="C:\Users\DELL\Desktop\AutomationFF\AutomationFrameworkS\src\test\resources\Features\Air\1.loginCRM" />
+    </key>
+    <key name="ExtractSuperBase.RECENT_KEYS">
+      <recent name="Runner" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="BrowserAccess" />
+      <recent name="Runner" />
+    </key>
+  </component>
+  <component name="RunManager" selected="TestNG.TestNg">
+    <configuration name="Unnamed" type="AndroidRunConfigurationType" factoryName="Android App" nameIsGenerated="true">
+      <option name="DEPLOY" value="true" />
+      <option name="DEPLOY_APK_FROM_BUNDLE" value="false" />
+      <option name="DEPLOY_AS_INSTANT" value="false" />
+      <option name="ARTIFACT_NAME" value="" />
+      <option name="PM_INSTALL_OPTIONS" value="" />
+      <option name="ALL_USERS" value="false" />
+      <option name="ALWAYS_INSTALL_WITH_PM" value="false" />
+      <option name="DYNAMIC_FEATURES_DISABLED_LIST" value="" />
+      <option name="ACTIVITY_EXTRA_FLAGS" value="" />
+      <option name="MODE" value="default_activity" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="false" />
+      <option name="SKIP_NOOP_APK_INSTALLATIONS" value="true" />
+      <option name="FORCE_STOP_RUNNING_APP" value="true" />
+      <option name="TARGET_SELECTION_MODE" value="SHOW_DIALOG" />
+      <option name="DEBUGGER_TYPE" value="Java" />
+      <Java />
+      <Profilers>
+        <option name="ADVANCED_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_CPU_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_CPU_PROFILING_CONFIGURATION_NAME" value="Sample Java Methods" />
+        <option name="STARTUP_NATIVE_MEMORY_PROFILING_ENABLED" value="false" />
+        <option name="NATIVE_MEMORY_SAMPLE_RATE_BYTES" value="2048" />
+      </Profilers>
+      <option name="DEEP_LINK" value="" />
+      <option name="ACTIVITY_CLASS" value="" />
+      <option name="SEARCH_ACTIVITY_IN_GLOBAL_SCOPE" value="false" />
+      <option name="SKIP_ACTIVITY_VALIDATION" value="false" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Feature: loginCRM (1)" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java" temporary="true" nameIsGenerated="true">
+      <option name="CUCUMBER_CORE_VERSION" value="1.2" />
+      <option name="FILE_PATH" value="$PROJECT_DIR$/src/test/resources/Features/loginCRM.feature" />
+      <option name="GLUE" value="Stepdef.Login" />
+      <option name="MAIN_CLASS_NAME" value="cucumber.api.cli.Main" />
+      <module name="AutomationFrameworkS" />
+      <option name="PROGRAM_PARAMETERS" value=" --plugin org.jetbrains.plugins.cucumber.java.run.CucumberJvmSMFormatter --monochrome" />
+      <option name="SUGGESTED_NAME" value="Feature: loginCRM" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_WORKING_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cucumber.api.cli.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Feature: loginCRM" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java" temporary="true" nameIsGenerated="true">
+      <option name="CUCUMBER_CORE_VERSION" value="1.2" />
+      <option name="FILE_PATH" value="$PROJECT_DIR$/src/test/resources/Features/Air/1.loginCRM/loginCRM.feature" />
+      <option name="GLUE" value="Stepdef.Login" />
+      <option name="MAIN_CLASS_NAME" value="cucumber.api.cli.Main" />
+      <module name="AutomationFrameworkS" />
+      <option name="PROGRAM_PARAMETERS" value=" --plugin org.jetbrains.plugins.cucumber.java.run.CucumberJvmSMFormatter --monochrome" />
+      <option name="SUGGESTED_NAME" value="Feature: loginCRM" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_WORKING_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cucumber.api.cli.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Scenario: TC01_To login CRM page (1)" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java" temporary="true" nameIsGenerated="true">
+      <option name="CUCUMBER_CORE_VERSION" value="1.2" />
+      <option name="FILE_PATH" value="$PROJECT_DIR$/src/test/resources/Features/loginCRM.feature" />
+      <option name="GLUE" value="Stepdef.Login" />
+      <option name="MAIN_CLASS_NAME" value="cucumber.api.cli.Main" />
+      <module name="AutomationFrameworkS" />
+      <option name="NAME_FILTER" value="^TC01_To login CRM page$" />
+      <option name="PROGRAM_PARAMETERS" value=" --plugin org.jetbrains.plugins.cucumber.java.run.CucumberJvmSMFormatter --monochrome --name &quot;^TC01_To login CRM page$&quot;" />
+      <option name="SUGGESTED_NAME" value="Scenario: TC01_To login CRM page" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_WORKING_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cucumber.api.cli.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Scenario: TC01_To login CRM page" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java" temporary="true" nameIsGenerated="true">
+      <option name="CUCUMBER_CORE_VERSION" value="1.2" />
+      <option name="FILE_PATH" value="$PROJECT_DIR$/src/test/resources/Features/CO_Air_ExecludeFF_Practices.feature" />
+      <option name="GLUE" value="Stepdef.Login" />
+      <option name="MAIN_CLASS_NAME" value="cucumber.api.cli.Main" />
+      <module name="AutomationFrameworkS" />
+      <option name="NAME_FILTER" value="^TC01_To login CRM page$" />
+      <option name="PROGRAM_PARAMETERS" value=" --plugin org.jetbrains.plugins.cucumber.java.run.CucumberJvmSMFormatter --monochrome --name &quot;^TC01_To login CRM page$&quot;" />
+      <option name="SUGGESTED_NAME" value="Scenario: TC01_To login CRM page" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_WORKING_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cucumber.api.cli.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Unnamed" type="JUnit" factoryName="JUnit" nameIsGenerated="true">
+      <module name="AutomationFrameworkS" />
+      <option name="PACKAGE_NAME" value="Runner" />
+      <option name="MAIN_CLASS_NAME" value="Runner.TestRunner1" />
+      <option name="METHOD_NAME" value="" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="AutomationFrameworkS [clean,install]" type="MavenRunConfiguration" factoryName="Maven" nameIsGenerated="true">
+      <MavenSettings>
+        <option name="myGeneralSettings" />
+        <option name="myRunnerSettings" />
+        <option name="myRunnerParameters">
+          <MavenRunnerParameters>
+            <option name="profiles">
+              <set />
+            </option>
+            <option name="goals">
+              <list>
+                <option value="clean" />
+                <option value="install" />
+              </list>
+            </option>
+            <option name="pomFileName" />
+            <option name="profilesMap">
+              <map />
+            </option>
+            <option name="resolveToWorkspace" value="false" />
+            <option name="workingDirPath" value="$PROJECT_DIR$" />
+          </MavenRunnerParameters>
+        </option>
+      </MavenSettings>
+      <method v="2" />
+    </configuration>
+    <configuration name="TestNg" type="TestNG">
+      <module name="AutomationFrameworkS" />
+      <shortenClasspath name="NONE" />
+      <useClassPathOnly />
+      <option name="SUITE_NAME" value="" />
+      <option name="PACKAGE_NAME" value="Runner" />
+      <option name="MAIN_CLASS_NAME" value="Runner.TestRunner" />
+      <option name="GROUP_NAME" value="" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="PARAMETERS" value="" />
+      <option name="OUTPUT_DIRECTORY" value="" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="moduleWithDependencies" />
+      </option>
+      <option name="PROPERTIES_FILE" value="" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Android App.Unnamed" />
+      <item itemvalue="Cucumber Java.Feature: loginCRM" />
+      <item itemvalue="Cucumber Java.Feature: loginCRM (1)" />
+      <item itemvalue="Cucumber Java.Scenario: TC01_To login CRM page" />
+      <item itemvalue="Cucumber Java.Scenario: TC01_To login CRM page (1)" />
+      <item itemvalue="JUnit.Unnamed" />
+      <item itemvalue="Maven.AutomationFrameworkS [clean,install]" />
+      <item itemvalue="TestNG.TestNg" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Cucumber Java.Scenario: TC01_To login CRM page" />
+        <item itemvalue="Cucumber Java.Scenario: TC01_To login CRM page (1)" />
+        <item itemvalue="Cucumber Java.Feature: loginCRM (1)" />
+        <item itemvalue="Cucumber Java.Feature: loginCRM" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="937e249d-42fc-42d9-aeeb-100cc326535e" name="Changes" comment="" />
+      <created>1650546656247</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1650546656247</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="test" />
+    <option name="LAST_COMMIT_MESSAGE" value="test" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/Util/GlobalFunction.java</url>
+          <line>36</line>
+          <option name="timeStamp" value="8" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/Runner/TestRunner1.java</url>
+          <line>18</line>
+          <option name="timeStamp" value="14" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/Util/GlobalFunction.java</url>
+          <line>76</line>
+          <option name="timeStamp" value="15" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/Functional/LHFunction.java</url>
+          <line>35</line>
+          <option name="timeStamp" value="22" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/BrowserAccess/BrowserControl.java</url>
+          <line>56</line>
+          <option name="timeStamp" value="23" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+    <watches-manager>
+      <configuration name="JUnit">
+        <watch expression="scenario" />
+        <watch expression="dict_login.get(&quot;password&quot;)" />
+      </configuration>
+    </watches-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/AutomationFrameworkS$Unnamed.ic" NAME="Unnamed Coverage Results" MODIFIED="1650624461430" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+  </component>
+</project>
